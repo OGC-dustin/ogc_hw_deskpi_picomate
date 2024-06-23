@@ -1,5 +1,5 @@
 # OGC.Engineering
-### ogc_hw_deskpi_picomate - hardware description of the DeskPi PicoMate development platform
+### ogc_hw_deskpi_picomate - hardware description for the DeskPi PicoMate development platform
 developer contact - dustin ( at ) ogc.engineering
 
 ---
